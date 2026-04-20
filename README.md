@@ -1,4 +1,4 @@
-# 🚀 CR Kosong Dua - Pemrograman Web
+# crkosongdua - Pemrograman Web CR002
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/illhammf/crkosongdua-2026?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/illhammf/crkosongdua-2026?style=for-the-badge)
@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Tentang Project
-Project ini merupakan tugas dari mata kuliah **Pemrograman Web**  
+## Tentang Project
+Project ini merupakan tugas dari mata kuliah **Pemrograman Web**  bersama Djambred
 dibangun menggunakan Laravel + Filament + Docker.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - 🐘 Laravel
 - 🎨 Filament Admin Panel
 - 🐳 Docker
@@ -20,7 +20,7 @@ dibangun menggunakan Laravel + Filament + Docker.
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 - CRUD Student
 - CRUD Ortu
 - CRUD Subject
@@ -44,7 +44,7 @@ dibangun menggunakan Laravel + Filament + Docker.
 
 ---
 
-## 🕒 Development Timeline
+## Development Timeline
 ```text
 [✔] Initial Boilerplate Setup
 [✔] Setup Docker Environment
@@ -53,3 +53,5 @@ dibangun menggunakan Laravel + Filament + Docker.
 [✔] Subject Module Created
 [✔] Schedule Module Created
 [🚀] Deployment Ready
+
+---
