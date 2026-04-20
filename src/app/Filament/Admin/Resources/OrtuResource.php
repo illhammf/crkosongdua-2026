@@ -2,9 +2,9 @@
 
 namespace App\Filament\Admin\Resources;
 
-use App\Filament\Admin\Resources\StudentResource\Pages;
-use App\Filament\Admin\Resources\StudentResource\RelationManagers;
-use App\Models\Student;
+use App\Filament\Admin\Resources\OrtuResource\Pages;
+use App\Filament\Admin\Resources\OrtuResource\RelationManagers;
+use App\Models\Ortu;
 use Filament\Forms;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
@@ -13,15 +13,15 @@ use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 
-class StudentResource extends Resource
+class OrtuResource extends Resource
 {
-    protected static ?string $model = Student::class;
+    protected static ?string $model = Ortu::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
     protected static ?string $navigationGroup = 'Data Management';
-    protected static ?int $navigationSort = 1;
-    protected static ?string $label = 'Murid';
-    protected static ?string $pluralLabel = 'Murid';
+    protected static ?int $navigationSort = 2;
+    protected static ?string $label = 'Orang Tua';
+    protected static ?string $pluralLabel = 'Orang Tua';
 
     public static function getNavigationBadge(): ?string
     {
@@ -88,9 +88,9 @@ class StudentResource extends Resource
     public static function getPages(): array
     {
         return [
-            'index' => Pages\ListStudents::route('/'),
-            'create' => Pages\CreateStudent::route('/create'),
-            'edit' => Pages\EditStudent::route('/{record}/edit'),
+            'index' => Pages\ListOrtus::route('/'),
+            'create' => Pages\CreateOrtu::route('/create'),
+            'edit' => Pages\EditOrtu::route('/{record}/edit'),
         ];
     }
 }

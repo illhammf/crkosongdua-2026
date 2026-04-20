@@ -4,9 +4,9 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
-use App\Models\Student;
+use App\Models\Subject;
 
-class StudentSeeder extends Seeder
+class SubjectSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -14,10 +14,8 @@ class StudentSeeder extends Seeder
     public function run(): void
     {
         //
-        Student::firstOrCreate([
-            'name' => 'John Doe',
-            'email' => 'johndoe@gmail.com',
-            'phone' => '0895336900466',
-         ]);
+        Subject::firstOrCreate([
+            'name' => 'Pemrograman Web',
+        ]);
     }
 }
