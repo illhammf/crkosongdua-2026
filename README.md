@@ -3,6 +3,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/illhammf/crkosongdua-2026?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/illhammf/crkosongdua-2026?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/illhammf/crkosongdua-2026?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=illhammf&repo=crkosongdua-2026&color=blue&style=for-the-badge)
 
 ---
 
@@ -13,10 +14,11 @@ dibangun menggunakan Laravel + Filament + Docker.
 ---
 
 ## Tech Stack
+- 🌐 Visual Studio Code
 - 🐘 Laravel
 - 🎨 Filament Admin Panel
 - 🐳 Docker
-- 🗄️ MySQL
+- 🗄️ MariaDB/MySQL
 
 ---
 
@@ -26,21 +28,6 @@ dibangun menggunakan Laravel + Filament + Docker.
 - CRUD Subject
 - CRUD Schedule
 - Admin Panel (Filament)
-
----
-
-## 📊 GitHub Activity (Live)
-![Stats](https://github-readme-stats.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Repo Stats (Auto Update)
-![Views](https://komarev.com/ghpvc/?username=illhammf&repo=crkosongdua-2026&color=blue&style=for-the-badge)
-
----
-
-## 📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=illhammf&theme=tokyo-night)
 
 ---
 
@@ -55,3 +42,14 @@ dibangun menggunakan Laravel + Filament + Docker.
 [🚀] Deployment Ready
 
 ---
+
+## 📊 GitHub Activity (Live)
+![Stats](https://github-readme-stats.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=illhammf&theme=tokyo-night)
+
+---
+
