@@ -43,13 +43,13 @@ dibangun menggunakan Laravel + Filament + Docker.
 
 ---
 
-## 📊 GitHub Activity (Live)
+## GitHub Activity (Live)
 ![Stats](https://github-readme-stats.vercel.app/api?username=illhammf&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=illhammf&theme=tokyo-night)
+## 📈 Contribution Graph 
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=illhammf&theme=tokyo-night) 
 
 ---
 
