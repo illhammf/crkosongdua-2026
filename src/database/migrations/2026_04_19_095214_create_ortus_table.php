@@ -28,3 +28,7 @@ return new class extends Migration
         Schema::dropIfExists('ortus');
     }
 };
+
+# Pertemuan 5 - Menambahkan Relasi One to Many antara Ortu dan Student
+# File Ortu harus ada diatas Student karena ada foreign key di Student yang mengacu ke Ortu. 
+# Jika tidak, maka akan terjadi error saat menjalankan migrasi.

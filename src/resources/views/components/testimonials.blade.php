@@ -4,7 +4,7 @@
         <div class="col-lg-7">
           <div class="owl-carousel owl-testimonials">
             <div class="item">
-              <p>"Please tell your friends or collegues about TemplateMo website. Anyone can access the website to download free templates. Thank you for visiting."</p>
+              <p>"Mohon beri tahu teman atau kolega Anda tentang situs web TemplateMo. Siapa pun dapat mengakses situs web ini untuk mengunduh templat gratis. Terima kasih atas kunjungan Anda."</p>
               <div class="author">
                 <img src="{{ asset('front/assets/images/testimonial-author.jpg') }}" alt="">
                 <span class="category">Full Stack Master</span>
@@ -12,7 +12,7 @@
               </div>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravid."</p>
+              <p>"Mantapp pokoknya udah."</p>
               <div class="author">
                 <img src="{{ asset('front/assets/images/testimonial-author.jpg') }}" alt="">
                 <span class="category">UI Expert</span>
@@ -20,7 +20,7 @@
               </div>
             </div>
             <div class="item">
-              <p>"Scholar is free website template provided by TemplateMo for educational related websites. This CSS layout is based on Bootstrap v5.3.0 framework."</p>
+              <p>"Scholar adalah template website gratis yang disediakan oleh TemplateMo untuk website bertema pendidikan. Tata letak CSS ini berbasis pada framework Bootstrap v5.3.0."</p>
               <div class="author">
                 <img src="{{ asset('front/assets/images/testimonial-author.jpg') }}" alt="">
                 <span class="category">Digital Animator</span>
@@ -32,8 +32,8 @@
         <div class="col-lg-5 align-self-center">
           <div class="section-heading">
             <h6>TESTIMONIALS</h6>
-            <h2>What they say about us?</h2>
-            <p>You can search free CSS templates on Google using different keywords such as templatemo portfolio, templatemo gallery, templatemo blue color, etc.</p>
+            <h2>Apa kata mereka tentang kita?</h2>
+            <p>Anda dapat mencari template CSS gratis di Google menggunakan berbagai kata kunci seperti templatemo portfolio, templatemo gallery, templatemo blue color, dll.</p>
           </div>
         </div>
       </div>

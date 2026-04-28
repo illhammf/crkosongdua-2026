@@ -3,7 +3,7 @@
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
-use App\Models\User;
+use App\Models\Ortu; # Pastikan untuk mengimpor model Ortu agar bisa digunakan sebagai foreign key di migrasi Student
 
 return new class extends Migration
 {
@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('name');
             $table->string('email')->unique();
             $table->string('phone');
+            $table->foreignIdFor(Ortu::class); # Tambahan field ortu_id sebagai foreign key yang mengacu ke tabel ortus (Pertemuan 5)
             $table->timestamps();
         });
     }

@@ -43,6 +43,12 @@ class StudentResource extends Resource
                     ->tel()
                     ->required()
                     ->maxLength(255),
+                Forms\Components\Select::make('ortu_id') # Tambahan field ortu_id (Pertemuan 5)
+                    ->label('Orang Tua')
+                    ->relationship('ortu', 'name')
+                    ->searchable()
+                    ->preload()
+                    ->default(null),
             ]);
     }
 

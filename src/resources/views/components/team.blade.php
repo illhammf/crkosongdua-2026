@@ -6,7 +6,7 @@
             <div class="main-content">
               <img src="{{ asset('front/assets/images/member-01.jpg') }}" alt="">
               <span class="category">UX Teacher</span>
-              <h4>Sophia Rose</h4>
+              <h4>Luqman Syahreno</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -20,7 +20,7 @@
             <div class="main-content">
               <img src="{{ asset('front/assets/images/member-02.jpg') }}" alt="">
               <span class="category">Graphic Teacher</span>
-              <h4>Cindy Walker</h4>
+              <h4>Dafa Rafi Nur Wansyah</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -34,7 +34,7 @@
             <div class="main-content">
               <img src="{{ asset('front/assets/images/member-03.jpg') }}" alt="">
               <span class="category">Full Stack Master</span>
-              <h4>David Hutson</h4>
+              <h4>Muhammad Aditya</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -48,7 +48,7 @@
             <div class="main-content">
               <img src="{{ asset('front/assets/images/member-04.jpg') }}" alt="">
               <span class="category">Digital Animator</span>
-              <h4>Stella Blair</h4>
+              <h4>Saelendra Farell</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>

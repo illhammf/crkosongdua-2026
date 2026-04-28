@@ -7,7 +7,7 @@
               <div class="header-text">
                 <span class="category">Our Courses</span>
                 <h2>With Scholar Teachers, Everything Is Easier</h2>
-                <p>Scholar is free CSS template designed by TemplateMo for online educational related websites. This layout is based on the famous Bootstrap v5.3.0 framework.</p>
+                <p>Ini adalah Proyek Ilham Firmansyah (20240801102).</p>
                 <div class="buttons">
                   <div class="main-button">
                     <a href="#">Request Demo</a>

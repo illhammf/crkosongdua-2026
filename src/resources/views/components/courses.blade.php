@@ -31,7 +31,7 @@
               <span class="price"><h6><em>$</em>160</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">Stella Blair</span>
+              <span class="author">Annisa Zahra</span>
               <h4>Learn Web Design</h4>
             </div>
           </div>
@@ -44,7 +44,7 @@
               <span class="price"><h6><em>$</em>340</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">Cindy Walker</span>
+              <span class="author">Azqia Khoirunnisa</span>
               <h4>Web Development Tips</h4>
             </div>
           </div>
@@ -57,7 +57,7 @@
               <span class="price"><h6><em>$</em>640</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">David Hutson</span>
+              <span class="author">Achmad Rafli</span>
               <h4>Latest Web Trends</h4>
             </div>
           </div>
@@ -70,7 +70,7 @@
               <span class="price"><h6><em>$</em>450</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">Stella Blair</span>
+              <span class="author">Annisa Zahra</span>
               <h4>Online Learning Steps</h4>
             </div>
           </div>
@@ -83,7 +83,7 @@
               <span class="price"><h6><em>$</em>320</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">Sophia Rose</span>
+              <span class="author">Azqia Khoirunnisa</span>
               <h4>Be a WordPress Master</h4>
             </div>
           </div>
@@ -96,7 +96,7 @@
               <span class="price"><h6><em>$</em>240</h6></span>
             </div>
             <div class="down-content">
-              <span class="author">David Hutson</span>
+              <span class="author">Achmad Rafli</span>
               <h4>Full Stack Developer</h4>
             </div>
           </div>

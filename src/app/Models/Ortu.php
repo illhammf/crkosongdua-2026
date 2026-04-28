@@ -7,4 +7,9 @@ use Illuminate\Database\Eloquent\Model;
 class Ortu extends Model
 {
     protected $guarded = ['id'];
+
+    public function students()
+    {
+        return $this->hasMany(Student::class); # Tambahan relasi hasMany ke Student (Pertemuan 5)
+    }
 }
