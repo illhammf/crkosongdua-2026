@@ -1,12 +1,17 @@
 # Docker data
+postgres-data/
+metabase-data/
 db/data/
+
 # Dependencies
 src/vendor/
 src/node_modules/
+
 # IDE & OS files
 .idea/
 .vscode/
 .DS_Store
+
 # Environment files
 .env
 src/.env
